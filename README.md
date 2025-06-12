@@ -37,4 +37,47 @@ This project combines the power of React with AI capabilities, allowing develope
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/PranavPW/AIWebsiteBuilderTemplate.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+ ```
+
+3. Start the development server:
+```bash
+npm run dev
+ ```
+
+4. Open your browser and visit http://localhost:3000
+
+5. Begin interacting with the AI assistant to modify your website
+
+## Project Structure ##Licence
+
+```plaintext
+AIWebsiteTemplate/
+├── src/
+│   ├── components/     # React components
+│   ├── pages/         # Page templates
+│   ├── ai/            # AI integration modules
+│   └── styles/        # Tailwind and custom styles
+├── public/
+└── package.json
+ ```
+
+## Example Usage
+
+- "Create a new hero section with a gradient background"
+- "Add a responsive navigation menu"
+- "Implement a dark mode toggle"
+- "Generate a contact form with validation"
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+##Licence
+
+MIT License
