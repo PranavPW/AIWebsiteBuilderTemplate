@@ -1,10 +1,14 @@
 # AI Website Template
 
+**Product of PWlabs**
+
 An innovative React-based website template that integrates an LLM-powered chat/editing bot for real-time template modifications and development assistance.
 
 ## Overview
 
 This project combines the power of React with AI capabilities, allowing developers to modify and enhance their website through natural language interactions. Instead of traditional coding, you can describe your desired changes to the AI assistant, which will implement them in real-time.
+
+![AI Website Template Overview](./screenshots/overview.png)
 
 ## Features
 
@@ -17,6 +21,17 @@ This project combines the power of React with AI capabilities, allowing develope
 - 🔄 Real-time template updates
 - 💫 Integrated Lucide React icons
 - 🛠 No-code/low-code approach through AI assistance
+
+## Screenshots
+
+### AI Chat Interface
+![AI Chat Interface](./screenshots/chat-interface.png)
+
+### Real-time Editing
+![Real-time Editing](./screenshots/real-time-editing.png)
+
+### Template Customization
+![Template Customization](./screenshots/template-customization.png)
 
 ## Tech Stack
 
@@ -32,6 +47,8 @@ This project combines the power of React with AI capabilities, allowing develope
 2. **Real-time Updates**: Watch as your requests are transformed into actual website changes
 3. **Template Modifications**: The AI understands and implements design patterns, component creation, and styling
 4. **Instant Preview**: See your changes reflected immediately in the development environment
+
+![How It Works](./screenshots/workflow.png)
 
 ## Getting Started
 
@@ -78,6 +95,6 @@ AIWebsiteTemplate/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##Licence
+## Licence
 
 MIT License
