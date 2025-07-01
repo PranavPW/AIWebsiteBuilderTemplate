@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Website Template
 
 **Product of PWlabs**
@@ -22,16 +23,6 @@ This project combines the power of React with AI capabilities, allowing develope
 - 💫 Integrated Lucide React icons
 - 🛠 No-code/low-code approach through AI assistance
 
-## Screenshots
-
-### AI Chat Interface
-![AI Chat Interface](./screenshots/chat-interface.png)
-
-### Real-time Editing
-![Real-time Editing](./screenshots/real-time-editing.png)
-
-### Template Customization
-![Template Customization](./screenshots/template-customization.png)
 
 ## Tech Stack
 
@@ -98,3 +89,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Licence
 
 MIT License
+=======
+AIWebsiteBuilderTemplate
+>>>>>>> 8bb646ced7af3babb0920055f76c173ab6b0a2c0
